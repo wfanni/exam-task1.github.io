@@ -1,1 +1,3 @@
-# exam-task1
+# Frontend exam task
+
+Recreating a webpage based on image file.
